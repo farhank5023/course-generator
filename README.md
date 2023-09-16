@@ -51,9 +51,6 @@ Benefits:
 
 The AI-Powered Course Generator App redefines learning, placing the power of knowledge in the hands of the user. Whether you're a student, a professional, or an enthusiast, this app empowers you to master the subjects that matter most to you. Unlock your full learning potential today!
 
-It currently contains companions on both ChatGPT and Vicuna hosted on [Replicate](https://replicate.com/). 
-
-There are many possible use cases for these companions - romantic (AI girlfriends / boyfriends), friendship, entertainment, coaching, etc. You can guide your companion towards your ideal use case with the backstory you write and the model you choose.
 
 
 
