@@ -1,6 +1,6 @@
 # AI Course Generator App  
 
-[Live Video Demo](https://drive.google.com/file/d/1DPzpMrjmG0VHDB1hx_WRPjK-IoZVAUgs/view?usp=sharing)
+[Live Video Demo](https://drive.google.com/file/d/1HUWZxKaaoUHRxtENSjBdWvMxWx4nF5hn/view?usp=sharing)
 
 
 [Website](https://course-generator-zeta.vercel.app/gallery)
