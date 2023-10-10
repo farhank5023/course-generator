@@ -4,6 +4,7 @@ import SignInButton from "./SignInButton";
 import { getAuthSession } from "@/lib/auth";
 import UserAccountNav from "./UserAccountNav";
 import { ThemeToggle } from "./ThemeToggle";
+import Image from "next/image";
 
 type Props = {};
 
@@ -14,9 +15,7 @@ const Navbar = async (props: Props) => {
       <div className="flex items-center justify-center h-full gap-2 px-8 mx-auto sm:justify-between max-w-7xl">
         <Link href="/gallery" className="items-center hidden gap-2 sm:flex">
           <p className="rounded-lg border-2 border-b-4 border-r-4 border-black px-2 py-1 text-xl font-bold transition-all hover:-translate-y-[2px] md:block dark:border-white">
-            Learning Journey YT
-          </p>
-        </Link>
+          <Image height={80} width={80} alt="logo" src="/logo-white.png" /></p> </Link>
         <div className="flex items-center">
           <Link href="/gallery" className="mr-3">
             Gallery
